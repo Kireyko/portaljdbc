@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE table PUBLIC "table_.tbl">-->
+<table>
+    <header>
+        <column>
+            <name>id</name>
+            <type>INT(11)</type>
+        </column>
+        <column>
+            <name>name</name>
+            <type>varchar(45)</type>
+        </column>
+        <column>
+            <name>value</name>
+            <type>varchar(40)</type>
+        </column>
+    </header>
+    <rows>
+        <row>
+            <id>1</id>
+            <name>Ivanov Ivan</name>
+            <value>23424234</value>
+        </row>
+        <row>
+            <id>2</id>
+            <name>Kos Mykola</name>
+            <value>3322</value>
+        </row>
+        <row>
+            <id>3</id>
+            <name>Mos Eva</name>
+            <value>44</value>
+        </row>
+        <row>
+            <id>4</id>
+            <name>Kostych Eva</name>
+            <value>dd</value>
+        </row>
+    </rows>
+</table>

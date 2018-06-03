@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE table PUBLIC "table_.tbl">-->
+<table>
+    <header>
+        <column>
+            <name>id</name>
+            <type>INT(11)</type>
+        </column>
+        <column>
+            <name>name</name>
+            <type>varchar(45)</type>
+        </column>
+    </header>
+    <rows>
+        <row>
+            <id>1</id>
+            <el>Ivanov Ivan</el>
+        </row>
+        <row>
+            <id>2</id>
+            <name>Kos Mykola</name>
+        </row>
+        <row>
+            <id>3</id>
+            <name>Mos Eva</name>
+        </row>
+        <row>
+            <id>4</id>
+            <name>Kostych Eva</name>
+        </row>
+    </rows>
+</table>
